@@ -3,7 +3,7 @@
 import { useState } from "react";
 import { EXAMPLES } from "../lib/demo";
 
-const PROBLEM = "Everyone falls in love with their own idea, plan, or argument, and no one around them will say the hard truth about it.";
+const PROBLEM = "Ever had an idea and nobody tells you the flaw? They just say it sounds great, it looks great, it is a banger idea. Devil's Advocate checks your idea for flaws, and tells you straight whether it actually checks out.";
 
 function strengthLabel(s) {
   return s === "strong" ? "Strong hit" : s === "weak" ? "Weak hit" : "Medium hit";

@@ -1,6 +1,6 @@
 # Devil's Advocate
 
-Everyone falls in love with their own idea, plan, or argument, and no one around them will say the hard truth about it.
+Ever had an idea and nobody tells you the flaw? They just say it sounds great, it looks great, it is a banger idea. Devil's Advocate checks your idea for flaws, and tells you straight whether it actually checks out.
 
 Devil's Advocate takes any idea, plan, or argument you paste in, and builds the strongest case against it as a visible reasoning graph, finds the one weakest link, and tells you how to fix it.
 
