@@ -2,7 +2,7 @@ import "./globals.css";
 
 export const metadata = {
   title: "Devil's Advocate",
-  description: "Everyone falls in love with their own idea, plan, or argument, and no one around them will say the hard truth about it."
+  description: "Ever had an idea and nobody tells you the flaw? They just say it sounds great, it looks great, it is a banger idea. Devil's Advocate checks your idea for flaws, and tells you straight whether it actually checks out."
 };
 
 export default function RootLayout({ children }) {
