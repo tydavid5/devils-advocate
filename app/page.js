@@ -129,7 +129,7 @@ export default function Home() {
         </section>
       )}
 
-      <p className="footer">Devil's Advocate, built with SERV Reasoning. Demo mode uses precomputed sample graphs until a SERV API key is added.</p>
+      <p className="footer">Devil's Advocate, built with SERV Reasoning.</p>
     </main>
   );
 }
