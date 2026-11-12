@@ -58,7 +58,10 @@ export default function Home() {
     <main className="wrap">
       <section className="hero">
         <span className="badge">SERV Hackathon 02, Open Track</span>
-        <h1>Devil's <span>Advocate</span></h1>
+        <div className="titleRow">
+          <img src="/logo.png" alt="Devil's Advocate logo" className="logoImg" width="56" height="56" />
+          <h1>Devil's <span>Advocate</span></h1>
+        </div>
         <p>{PROBLEM}</p>
       </section>
 
