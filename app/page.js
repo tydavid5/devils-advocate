@@ -89,8 +89,8 @@ export default function Home() {
       </section>
 
       {data ? (
-        <section className="card">
-          <p className={"verdict " + verdictClass}>Verdict: {data.verdict}</p>
+        <section className="card resultCard">
+          <p className={"verdict verdictStamp " + verdictClass}>Verdict: {data.verdict}</p>
           <div className="confBar"><div className="confFill" style={{ width: data.confidence + "%" }} /></div>
           <p>Confidence: {data.confidence} out of 100 {result.live ? "(live SERV call)" : "(sample)"}</p>
 
