@@ -4,13 +4,13 @@
 
 Ever had an idea and nobody tells you the flaw? They just say it sounds great, it looks great, it is a banger idea. Devil's Advocate checks your idea for flaws, and tells you straight whether it actually checks out.
 
-Devil's Advocate takes any idea, plan, or argument you paste in, and builds the strongest case against it as a visible reasoning graph, finds the one weakest link, and tells you how to fix it.
+Devil's Advocate takes any idea, plan, or argument you paste in, and judges it fairly as a visible reasoning graph, weighing it on its merits first, then finding genuine flaws, the one weakest link, and how to fix it.
 
 ## How it works
 
 1. Paste any idea, plan, or argument, or tap one of the 3 preloaded examples.
-2. SERV Reasoning builds the strongest case against it, with counterarguments, each with a strength of strong, medium, or weak, a reason, and what evidence would settle it.
-3. You get a verdict, Strong, Shaky, or Weak, a confidence score from 0 to 100, the one weakest link highlighted, a fix for that link, and what would change the verdict.
+2. SERV Reasoning judges the idea as a neutral judge, weighing its merits, evidence, and logic first, then finding genuine flaws, with counterarguments, each with a strength of strong, medium, or weak, a reason, and what evidence would settle it. The verdict follows the evidence, so a good idea can be Strong and a bad idea can be Weak.
+3. You get a verdict, Strong, Shaky, or Weak, a confidence score from 0 to 100, the one weakest link highlighted, a fix for that link, and what would change the verdict. The verdict rules are: Strong means the core claim holds and the flaws are minor or fixable, Shaky means the core claim is plausible but a key assumption is unproven or a major risk is unresolved, Weak means the core claim fails or a fatal flaw cannot be fixed as stated.
 4. You also get a steelman, the strongest version of your original idea in one sentence, so you leave with a better idea, not just a rejection.
 
 ## Examples
@@ -43,8 +43,8 @@ To run locally:
 
 1. Copy .env.example to .env.local and add SERV_API_KEY if you have one. Leave it empty for demo mode.
 2. Run npm install, then npm run dev.
-3. Open http://localhost:3000, pick an example, and tap Argue Against It.
+3. Open http://localhost:3000, pick an example, and tap Check This Idea.
 
 ## Tech
 
-Next.js, React, plain CSS, mobile first. One accent colour, red #b91c1c, big readable text.
+Next.js, React, plain CSS, mobile first. Dark editorial theme inspired by the free Framer template Marshal: near black canvas, oversized display type, one red accent, staggered hero entrance and fade and rise reveals.
