@@ -93,7 +93,7 @@ export async function POST(request) {
       body: JSON.stringify({
         model: SERV_MODEL,
         reasoning_effort: "medium",
-        max_tokens: 8000,
+        max_completion_tokens: 8000,
         messages: [
           { role: "system", content: systemPrompt },
           { role: "user", content: input }
