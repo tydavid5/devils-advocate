@@ -13,6 +13,10 @@ Devil's Advocate takes any idea, plan, or argument you paste in, and judges it f
 3. You get a verdict, Strong, Shaky, or Weak, a confidence score from 0 to 100, the one weakest link highlighted, a fix for that link, and what would change the verdict. The verdict rules are: Strong means the core claim holds and the flaws are minor or fixable, Shaky means the core claim is plausible but a key assumption is unproven or a major risk is unresolved, Weak means the core claim fails or a fatal flaw cannot be fixed as stated.
 4. You also get a steelman, the strongest version of your original idea in one sentence, so you leave with a better idea, not just a rejection.
 
+## Compare mode
+
+Compare two ideas head to head. Tap "Compare two ideas", paste Idea A and Idea B, or tap one of the 2 example pairs, then tap "Compare These Ideas". One SERV call judges both ideas on the same scale, in the same call, and names a winner, A, B, or Tie, with the reason why, what would flip it, and a full verdict, confidence, weakest link, fix, steelman, and 3 counterarguments for each idea. The example pairs are food delivery app vs licensed pharmacy next to a hospital, and brush teeth twice a day vs quit job with no savings.
+
 ## Examples
 
 1. Startup pitch: a food delivery app in a crowded city, faster than the big apps, so customers will switch.
